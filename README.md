@@ -1,2 +1,2 @@
 # ColorApp
-Flutter app that changes text color with button click
+Flutter app that changes text color on button press
